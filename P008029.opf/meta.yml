@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG09670
   title: འབྲི་གུང་གྲུབ་དབང་ཨ་མགོན་རིན་པོ་ཆེའི་རྣམ་ཐར།
-  volume: ''
+  volume:
+    bfc00ab2db764f0db0723cbab790cd90:
+      image_group_id: I00KG09675
+      title: Volume 1 of 'bri gung grub dbang a mgon rin po che'i rnam thar
+      volume_number: 1
+      total_pages: 90
   author: ''
+ebook_metadata:
+  title: འབྲི་གུང་གྲུབ་དབང་ཨ་མགོན་རིན་པོ་ཆེའི་རྣམ་ཐར།
+  author: ''
+  sku: P008029
+  cover: cover.jpg
+  layers:
+  - pagination
